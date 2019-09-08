@@ -1,0 +1,11 @@
+body {
+    background: url(../../assets/images/Crystals.jpg) no-repeat 50% 50% fixed;
+background-size: cover;}
+
+#crystal-main {
+    width: 650px;
+    border: 2px solid gray;
+    padding: 25px;
+    background: black;
+    color: whitesmoke;
+}
